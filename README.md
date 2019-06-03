@@ -6,7 +6,7 @@ Code for the labs of the [Deep Learning course](https://uvadlc.github.io/) offer
 
 ### Lab 1 - MLPs, CNNs and Backpropagation
 <p align="justify">
-We explore image classification with two neural network architectures: multi-layer perceptrons (MLP) and convolutional neural networks (CNN). To gain an in-depth understanding we first focus on a basic implementation of a MLP in numpy and Pytorch. Apart from that we also learn to implemt custom operations in PyTorch by reimplementing a batch-normalization layer. 
+We explore image classification with two neural network architectures: multi-layer perceptrons (MLP) and convolutional neural networks (CNN). To gain an in-depth understanding we first focus on a basic implementation of a MLP in numpy and Pytorch. Apart from that we also learn to implement custom operations in PyTorch by re-implementing a batch-normalization layer. 
 </p>
 
 #### Problems and Solutions
@@ -42,5 +42,5 @@ We explore deep generative modelling with two—currently most popular—deep ge
 ### Poster Presentations
 We presented [Attention is all you Need](https://arxiv.org/abs/1706.03762) paper by Vaswani  et al. This was done in collaboration with [Vikrant Yadav](https://www.linkedin.com/in/vikrant-yadav-98134496/) and [Dhruba Pujary](https://www.linkedin.com/in/dhruba-pujary-894a2253/).
 
-The poster can be found [here](poster_presentations/poster.pdf).
+The poster can be found [here](poster_presentation/poster.pdf).
 
