@@ -23,7 +23,7 @@ We explore the long-term dependency modelling capabilities of Recurrent Neural N
 
 ### Lab 3 - Deep Generative Models
 <p align="justify">
-We explore deep generative modelling with two—currently most popular—deep generative models, namely Variational Auto Encoders [VAE](https://arxiv.org/abs/1312.6114) and Generative Adversarial Networks [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets). 
+We explore deep generative modelling with two—currently most popular—deep generative models, namely Variational Auto Encoders [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114) and [Generative Adversarial Networks](https://papers.nips.cc/paper/5423-generative-adversarial-nets). 
 </p>
 
 #### Problems and Solutions
