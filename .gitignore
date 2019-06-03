@@ -1,0 +1,10 @@
+*/code/.vscode/
+assignment_3/code/images/
+assignment_3/code/data/*
+assignment_3/code/all_scalars.json
+assignment_3/code/mnist_generator.pt
+assignment_3/code/tensorflow/
+*/code/__pycache__/
+assignment_2/part1/__pycache__/
+assignment_2/part2/__pycache__/
+assignment_3/code/runs
