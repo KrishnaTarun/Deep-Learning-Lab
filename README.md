@@ -35,7 +35,7 @@ We explore deep generative modelling with two—currently most popular—deep ge
   <i>Manifold learned by the VAE</i>
   <br />
   <br />
-  <img src="fassignment_3/code/interpolation/interpolated_5.png" width="500" /><br />
+  <img src="assignment_3/code/interpolation/interpolated_5.png" width="500" /><br />
   <i>Interpolation results from GAN </i>
 </p>
 
