@@ -21,3 +21,11 @@ We explore the long-term dependency modelling capabilities of Recurrent Neural N
 #### Problems and Solutions
 - [Main Problem statement](assignment_2/assignment_2.pdf), [Python code part1](assignment_2/part1), [Python code part3](assignment_2/part3) and [report](assignment_2/Report_2.pdf)
 
+### Lab 3 - Deep Generative Models
+<p align="justify">
+We explore deep generative modelling with two—currently most popular—deep generative models, namely Variational Auto Encoders [VAE](https://arxiv.org/abs/1312.6114) and Generative Adversarial Networks [GAN](https://papers.nips.cc/paper/5423-generative-adversarial-nets). 
+</p>
+
+#### Problems and Solutions
+- [Main Problem statement](assignment_3/assignment_3.pdf), [Python code](assignment_3/code) and [report](assignment_3/Report_3.pdf)
+
