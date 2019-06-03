@@ -40,5 +40,7 @@ We explore deep generative modelling with two—currently most popular—deep ge
 </p>
 
 ### Poster Presentations
-We presented the [Attention is all you Need](https://arxiv.org/abs/1706.03762) paper by Vaswani  et al. This was done in collaboration with [Vikrant Yadav](https://www.linkedin.com/in/vikrant-yadav-98134496/) and [Dhruba Pujary](https://www.linkedin.com/in/dhruba-pujary-894a2253/).
+We presented [Attention is all you Need](https://arxiv.org/abs/1706.03762) paper by Vaswani  et al. This was done in collaboration with [Vikrant Yadav](https://www.linkedin.com/in/vikrant-yadav-98134496/) and [Dhruba Pujary](https://www.linkedin.com/in/dhruba-pujary-894a2253/).
+
+The poster can be found [here](poster_presentations/poster.pdf).
 
